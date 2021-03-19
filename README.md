@@ -43,3 +43,25 @@ Next run the webpack (from root).
 ```bash
 npm run start
 ```
+### Start Web App in the Server
+
+To start the web server you need to run the following sequence of commands.
+
+First cd into frontend folder .
+
+Install all dependicies.
+
+```bash
+npm i
+```
+
+Next run the webpack (from root).
+
+```bash
+npm run build
+```
+Go to backend folder and run.
+
+```bash
+python manage.py runserver
+```
