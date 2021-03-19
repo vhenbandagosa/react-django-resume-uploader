@@ -67,5 +67,5 @@ Go to backend folder and run.
 ```bash
 python manage.py runserver
 ```
-Serve on ```bash http://127.0.0.1:8000/ ```
+Serve on ```http://127.0.0.1:8000/ ```
 
