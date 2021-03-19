@@ -4,10 +4,11 @@ Django & React Full Stack Web App
 
 ## Setup Instructions
 
-### Activate virtualenv
+### Create virtualenv
 
 ```bash
 virtualenv env
+pip install -r requirements.txt
 . ./env/Scripts/activate
 ```
 
